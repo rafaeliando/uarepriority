@@ -99,19 +99,19 @@ button:hover{
 }
 .card1
 {
-    background-image: url(images/home1.jpeg);
+    background-image: url(home1.jpeg);
 }
 .card2
 {
-    background-image: url(images/gambar2.jpg);
+    background-image: url(gambar2.jpg);
 }
 .card3
 {
-    background-image: url(images/home2.jpeg);
+    background-image: url(home2.jpeg);
 }
 .card4
 {
-    background-image: url(images/home6.jpg);
+    background-image: url(home6.jpg);
 }
 .card:hover {
     transform: translateY(-10px);
